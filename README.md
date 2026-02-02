@@ -1,5 +1,5 @@
 # Webserver
-This is a simple implementations of a webserver. The server is based on TCP-Sockets and implements parts of the HTTP-protocol. This repository is the reusl of a 
+This is a simple implementations of a webserver. The server is based on TCP-Sockets and implements parts of the HTTP-protocol. This repository is the result of a 
 universityproject in the course *Rechnernetze und Verteilte Systeme (Computernetworks and Distributed Systems)* at the TU-Berlin. The task was to follow Beej's Guide on Network Programming (https://beej.us/guide/bgnet/).
 
 1. Clone the repository
